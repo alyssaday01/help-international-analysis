@@ -24,7 +24,6 @@ help-international-analysis/
 ├── notebooks/        # Jupyter Notebooks for analysis
 ├── powerbi/          # Power BI dashboards and reports
 ├── README.md         # Project overview (this file)
-└── requirements.txt  # Python dependencies
 ```
 
 ## 📬 Contact
