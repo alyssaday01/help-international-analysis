@@ -17,13 +17,15 @@ This project supports HELP International, a global NGO aiming to allocate fundin
 
 ## 📂 Project Structure
 
+```
 help-international-analysis/
-├── data/ # Raw and cleaned datasets
-├── sql/ # SQL scripts (table creation, insert statements)
-├── notebooks/ # Jupyter Notebooks for analysis
-├── powerbi/ # Power BI dashboards and reports
-├── README.md # Project overview (this file)
-└── requirements.txt # Python dependencies
+├── data/             # Raw and cleaned datasets
+├── sql/              # SQL scripts (table creation, insert statements)
+├── notebooks/        # Jupyter Notebooks for analysis
+├── powerbi/          # Power BI dashboards and reports
+├── README.md         # Project overview (this file)
+└── requirements.txt  # Python dependencies
+```
 
 ## 📬 Contact
 
