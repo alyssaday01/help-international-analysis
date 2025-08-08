@@ -80,8 +80,6 @@ help-international-analysis/
 
 ## 📈 Sample Visualizations
 
-*(Embed PNGs exported from your notebook here for quick viewing)*
-
 ![Correlation Heatmap](images/help_heatmap.png)
 ![PCA Variance](images/pca_variance.png)
 ![Cluster Scatter Plot](images/country_cluster.png)
