@@ -80,9 +80,17 @@ help-international-analysis/
 
 ## 📈 Sample Visualizations
 
+**Correlation Heatmap** – Highlights relationships between key socio-economic and health indicators, revealing strong positive correlation between `income` and `gdpp`.  
 ![Correlation Heatmap](images/help_heatmap.png)
+
+**PCA Variance Explained** – Shows how the first four principal components capture 96% of the dataset’s variance, reducing dimensionality while preserving insight.  
 ![PCA Variance](images/pca_variance.png)
+
+**Cluster Scatter Plot** – 2D visualization of country groupings after clustering, revealing four distinct structural development profiles.  
 ![Cluster Scatter Plot](images/country_cluster.png)
+
+**Choropleth Map** – Geographic distribution of clusters, providing a global view of how structural development profiles are spread across countries.  
+![Choropleth Map](images/cluster_map.png)
 
 ---
 
