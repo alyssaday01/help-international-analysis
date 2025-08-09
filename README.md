@@ -89,7 +89,7 @@ help-international-analysis/
 **Cluster Scatter Plot** – 2D visualization of country groupings after clustering, revealing four distinct structural development profiles.  
 ![Cluster Scatter Plot](images/country_cluster.png)
 
-**Choropleth Map** – Geographic distribution of clusters, providing a global view of how structural development profiles are spread across countries.  
+**Choropleth Map** – Visualizes the global distribution of country clusters identified through structural development indicators (economic, health, and demographic metrics). Highlights regional patterns, showing which countries share similar development profiles and where disparities are most pronounced.
 ![Choropleth Map](images/cluster_map.png)
 
 ---
