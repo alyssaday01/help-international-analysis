@@ -1,0 +1,60 @@
+# ----------------------------
+# HELP International Project
+# ----------------------------
+
+# Raw / intermediate / processed data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+
+# Local data folders
+data/
+Datasets/
+raw_data/
+outputs/
+interim/
+processed/
+figures/
+
+# AWS & credentials (never commit keys)
+.aws/
+*.pem
+*.key
+*.csv  # sometimes AWS creds are exported as CSV
+.env
+*.env
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.ckpt
+
+# Logs & temp files
+*.log
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+*.venv/
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store

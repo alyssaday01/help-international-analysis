@@ -1,0 +1,9 @@
+pandas
+boto3
+numpy
+matplotlib
+plotly
+kaleido
+seaborn
+scikit-learn
+joblib
